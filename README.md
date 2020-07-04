@@ -6,7 +6,7 @@ Download the folder and run 'Main.py'
 
 
 # Naming convention
-Files should be named in the following format: "<Name> <Surname> <Number>.jpg", with numbers starting from 1.
+Files should be named in the following format: "&lt;Name&gt; &lt;Surname&gt; &lt;Number&gt;.jpg", with numbers starting from 1.
 <br/>
 Place them into the relevant test and class folder before uploading.
   
